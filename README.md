@@ -13,6 +13,8 @@ Unos koordinata stajališta/ stanice i orijentacione tačke se vrši manuelnim u
 Klikom na SRAČUNAJ dugme, vrši se izračun direkcionog ugla sa stajališta na orijentaciju, sa stajališta na tačke koje su uvezene.
 
 -Opet iz bočnog menija klikom na Direkcioni ugao prikazani su svi izračunati direkcioni uglovi
+![Meni](https://github.com/user-attachments/assets/1244790c-d268-4b10-9c44-11679e5c98fa)
+
 
 Odabirom iz menija Elementi iskolčenja možemo vidjeti podatke potrebne za iskolčenje.
 -Horizontalni pravac I polugirus (Hz-I)

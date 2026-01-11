@@ -1,3 +1,4 @@
+
 Android aplikacija za izracunavanje elemenata iskolčenja iz geodezije
 Može se koristiti za polarnu metodu iskolčenja i presjeka pravaca
 [Preuzmi e-iskolcenje.apk](https://github.com/amerr97/e-iskolcenje/blob/main/E-IskolcenjeV1.4.apk) 
@@ -29,6 +30,7 @@ Dužina izračunata iz koordinata
 
 
 Odabirom na Skicu iz menija možemo vidjeti položaj tačaka koje treba iskočiti kao i tačku stajališta i orijentacije. Ove dvije tačke su povezane linjom.
+![Screenshot_2026-01-09-21-58-20-518_com example eiskolcenje](https://github.com/user-attachments/assets/b77efeed-2fbd-415d-929b-1975d90c8e29)
 Odabirom na Izvoz moguće je izvesti tabelu "Elementi iskolčenja" u .csv i .pdf formatu. Kao takvi mogu se priložiti u evidenciji ili koristiti za neke naknadne
 obrade i kontrole.
 ![Screenshot_2026-01-09-21-58-11-057_com example eiskolcenje](https://github.com/user-attachments/assets/b645f561-ac55-4a6c-bc64-ca0af7bb2105)

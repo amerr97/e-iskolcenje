@@ -2,7 +2,24 @@ Elementi iskolčenja geodezija
 
 Android aplikacija za izracunavanje elemenata iskolčenja iz geodezije
 Može se koristiti za polarnu metodu iskolčenja i presjeka pravaca
-[Preuzmi e-iskolcenje.apk](https://github.com/amerr97/e-iskolcenje/blob/main/E-IskolcenjeV1.4.apk) 
+[Preuzmi e-iskolcenje.apk](https://github.com/amerr97/e-iskolcenje/blob/main/E-IskolcenjeV1.1.apk) 
+
+
+UPDATE MART 27.03.2026.
+-.txt fajlove moguće uvesti sa različitim deliminatorima
+-dodan tab za uvoz osnove
+-u stanica, orijentacija dodan padajuci meni "osnova", klikom na njega moguće selektovati tačke iz osnove za stanicu i orijentaciju 
+( automatski se popunjava ime, i koordinate)
+-export csv i pdf moguće spasiti na bilo koju lokaciju koju korisnik želi
+
+<img width="204" height="443" alt="image" src="https://github.com/user-attachments/assets/7ebf7686-1c1f-4062-b15b-4a35846cd28b" />
+
+<img width="203" height="455" alt="image" src="https://github.com/user-attachments/assets/cc86cfcc-eb0c-4f9c-9f70-872954869183" />
+
+<img width="206" height="452" alt="image" src="https://github.com/user-attachments/assets/1494b2eb-91cb-42c1-98d2-72631ef4c35c" />
+
+<img width="203" height="454" alt="image" src="https://github.com/user-attachments/assets/3edffded-05e7-46b1-aa01-68d60b0898d8" />
+
 
 
 

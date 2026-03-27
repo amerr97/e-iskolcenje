@@ -1,3 +1,4 @@
+Elementi iskolčenja geodezija
 
 Android aplikacija za izracunavanje elemenata iskolčenja iz geodezije
 Može se koristiti za polarnu metodu iskolčenja i presjeka pravaca

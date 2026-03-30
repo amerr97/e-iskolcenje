@@ -4,7 +4,7 @@ Android aplikacija za izracunavanje elemenata iskolčenja iz geodezije
 Može se koristiti za polarnu metodu iskolčenja i presjeka pravaca
 ## Preuzimanje aplikacije
 
-[Preuzmi e-iskolcenje aplikaciju]([https://github.com/amerr97/e-iskolcenje/releases/download/update1.2/E-iskolcenjeV1.2.apk])
+[Preuzmi E-iskolcenje aplikaciju](https://github.com/amerr97/e-iskolcenje/releases/download/update1.2/E-iskolcenjeV1.2.apk)
 
 UPDATE MART 27.03.2026.
 -.txt fajlove moguće uvesti sa različitim deliminatorima

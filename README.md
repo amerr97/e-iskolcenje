@@ -20,6 +20,8 @@ UPDATE MART 27.03.2026.
 <img width="206" height="452" alt="image" src="https://github.com/user-attachments/assets/1494b2eb-91cb-42c1-98d2-72631ef4c35c" />
 
 <img width="203" height="454" alt="image" src="https://github.com/user-attachments/assets/3edffded-05e7-46b1-aa01-68d60b0898d8" />
+<img width="810" height="1800" alt="image" src="https://github.com/user-attachments/assets/62ad6480-e2ba-4c73-8710-30a31c39d826" />
+
 
 
 
